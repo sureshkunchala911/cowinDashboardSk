@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.containerBg {
+  background-color: #161625;
+  height: 100%;
+  padding-bottom: 20px;
+  padding-right: 70px;
+  background-size: cover;
+  padding-left: 70px;
+  padding-top: 20px;
+}
+.logoContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: center;
+}
+.logo {
+  height: 40px;
+  margin-right: 15px;
+}
+.logo-name {
+  font-family: Roboto;
+  color: #2cc6c6;
+  font-weight: 600;
+}
+.title {
+  font-family: Roboto;
+  font-size: 25px;
+  color: #ffffff;
+}
+.heading {
+  font-family: caveat;
+}

@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.byGender {
+  padding: 30px;
+  padding-right: 300px;
+  background-color: #1c1c2b;
+  background-size: cover;
+  width: 100%;
+  margin-top: 40px;
+}
+h1 {
+  color: #cbd5e1;
+  padding-bottom: 100px;
+}

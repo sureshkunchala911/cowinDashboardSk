@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.responsiveContainer {
+  padding: 30px;
+  padding-right: 60px;
+  background-color: #1c1c2b;
+  background-size: cover;
+  width: 100%;
+}
+h1 {
+  color: #cbd5e1;
+}
